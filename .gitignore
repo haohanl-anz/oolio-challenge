@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# coupon files
+.coupons/
+
+# local files
+.DS_Store
